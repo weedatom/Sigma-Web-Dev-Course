@@ -1,11 +1,15 @@
-.red{
- color: red;
+.red {
+  color: red;
 }
 
-.bg-yellow{
-    background-color: yellow;
+.bg-yellow {
+  background-color: yellow;
 }
 
-#firstdiv{
-    /* background-color: red; */
+#firstdiv {
+  /* background-color: red; */
+}
+
+#seconddiv {
+  /* background-color: green; */
 }
